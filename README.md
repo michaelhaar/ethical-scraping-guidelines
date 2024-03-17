@@ -4,6 +4,7 @@ These concepts are embedded in every web scraper that I write.
 
 It’s basically a summary of the following articles:
 
+- https://blog.apify.com/is-web-scraping-legal/
 - https://www.empiricaldata.org/dataladyblog/a-guide-to-ethical-web-scraping
 - https://scrapingrobot.com/blog/ethical-web-scraping/
 - https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01
