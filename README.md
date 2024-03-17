@@ -3,15 +3,16 @@
 These concepts are embedded in every web scraper that I write.
 
 It’s basically a summary of the following articles:
-https://www.empiricaldata.org/dataladyblog/a-guide-to-ethical-web-scraping
-https://scrapingrobot.com/blog/ethical-web-scraping/
-https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01
-https://monashdatafluency.github.io/python-web-scraping/section-5-legal-and-ethical-considerations/
-https://research.aimultiple.com/web-scraping-ethics/
-https://www.meritdata-tech.com/resources/blog/data/web-scraping-best-practices-ethical-data-collection/
-https://www.digital-recht.at/ist-screen-scraping-rechtlich-zulaessig/
-https://discoverdigitallaw.com/is-web-scraping-legal-short-guide-on-scraping-under-the-eu-jurisdiction/
-https://www.frag-einen-anwalt.de/Kleinanzeigen-Web-Scraping-legal--f349307.html
+
+- https://www.empiricaldata.org/dataladyblog/a-guide-to-ethical-web-scraping
+- https://scrapingrobot.com/blog/ethical-web-scraping/
+- https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01
+- https://monashdatafluency.github.io/python-web-scraping/section-5-legal-and-ethical-considerations/
+- https://research.aimultiple.com/web-scraping-ethics/
+- https://www.meritdata-tech.com/resources/blog/data/web-scraping-best-practices-ethical-data-collection/
+- https://www.digital-recht.at/ist-screen-scraping-rechtlich-zulaessig/
+- https://discoverdigitallaw.com/is-web-scraping-legal-short-guide-on-scraping-under-the-eu-jurisdiction/
+- https://www.frag-einen-anwalt.de/Kleinanzeigen-Web-Scraping-legal--f349307.html
 
 ## SCRAPE ONLY PUBLIC DATA
 
